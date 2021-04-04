@@ -14,4 +14,4 @@ Koch snowflake visualization
 
 Press space to add new segments, press backspace to turn back
 
-Press escape to close the programm
+Press escape to close the program
